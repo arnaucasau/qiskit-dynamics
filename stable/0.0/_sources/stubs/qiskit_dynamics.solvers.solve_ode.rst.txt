@@ -1,6 +1,0 @@
-﻿qiskit\_dynamics.solvers.solve\_ode
-===================================
-
-.. currentmodule:: qiskit_dynamics.solvers
-
-.. autofunction:: solve_ode
